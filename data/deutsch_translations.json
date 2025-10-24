@@ -1,0 +1,7274 @@
+[
+    {
+        "source_word": "wie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "like",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "I",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "seine",
+        "source_language": "German",
+        "translation": {
+            "target_word": "his",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dass",
+        "source_language": "German",
+        "translation": {
+            "target_word": "that",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "er",
+        "source_language": "German",
+        "translation": {
+            "target_word": "he",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "war",
+        "source_language": "German",
+        "translation": {
+            "target_word": "was",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "für",
+        "source_language": "German",
+        "translation": {
+            "target_word": "for",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "auf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "toward",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sind",
+        "source_language": "German",
+        "translation": {
+            "target_word": "are",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "mit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "with",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "her",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sein",
+        "source_language": "German",
+        "translation": {
+            "target_word": "be",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bei",
+        "source_language": "German",
+        "translation": {
+            "target_word": "in",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ein",
+        "source_language": "German",
+        "translation": {
+            "target_word": "an",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "haben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "have",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dies",
+        "source_language": "German",
+        "translation": {
+            "target_word": "this",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "aus",
+        "source_language": "German",
+        "translation": {
+            "target_word": "off",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "durch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "through",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "heiß",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hot",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wort",
+        "source_language": "German",
+        "translation": {
+            "target_word": "word",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "aber",
+        "source_language": "German",
+        "translation": {
+            "target_word": "but",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "was",
+        "source_language": "German",
+        "translation": {
+            "target_word": "what",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "einige",
+        "source_language": "German",
+        "translation": {
+            "target_word": "some",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ist",
+        "source_language": "German",
+        "translation": {
+            "target_word": "is",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "es",
+        "source_language": "German",
+        "translation": {
+            "target_word": "it",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "you",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "oder",
+        "source_language": "German",
+        "translation": {
+            "target_word": "or",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hatte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "had",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "die",
+        "source_language": "German",
+        "translation": {
+            "target_word": "who",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "von",
+        "source_language": "German",
+        "translation": {
+            "target_word": "of",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zu",
+        "source_language": "German",
+        "translation": {
+            "target_word": "too",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "und",
+        "source_language": "German",
+        "translation": {
+            "target_word": "and",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wir",
+        "source_language": "German",
+        "translation": {
+            "target_word": "we",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "können",
+        "source_language": "German",
+        "translation": {
+            "target_word": "may",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "andere",
+        "source_language": "German",
+        "translation": {
+            "target_word": "other",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "waren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "were",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "tun",
+        "source_language": "German",
+        "translation": {
+            "target_word": "do",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ihre",
+        "source_language": "German",
+        "translation": {
+            "target_word": "their",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zeit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "period",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wenn",
+        "source_language": "German",
+        "translation": {
+            "target_word": "when",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "werden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "will",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sagte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "told",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "jeder",
+        "source_language": "German",
+        "translation": {
+            "target_word": "every",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sagen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "say",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "tut",
+        "source_language": "German",
+        "translation": {
+            "target_word": "does",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Satz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sentence",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "drei",
+        "source_language": "German",
+        "translation": {
+            "target_word": "three",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wollen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "want",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Luft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "air",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gut",
+        "source_language": "German",
+        "translation": {
+            "target_word": "good",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "auch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "even",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "spielen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "play",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "klein",
+        "source_language": "German",
+        "translation": {
+            "target_word": "small",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ende",
+        "source_language": "German",
+        "translation": {
+            "target_word": "end",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "setzen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "put",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zuhause",
+        "source_language": "German",
+        "translation": {
+            "target_word": "home",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "lesen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "read",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "seits",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hand",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hafen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "port",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "groß",
+        "source_language": "German",
+        "translation": {
+            "target_word": "grand",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "buchstabieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "spell",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hinzufügen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "add",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lande",
+        "source_language": "German",
+        "translation": {
+            "target_word": "land",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hier",
+        "source_language": "German",
+        "translation": {
+            "target_word": "here",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "muss",
+        "source_language": "German",
+        "translation": {
+            "target_word": "must",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hoch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tall",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "so",
+        "source_language": "German",
+        "translation": {
+            "target_word": "thus",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "folgen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "follow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Akt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "act",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "warum",
+        "source_language": "German",
+        "translation": {
+            "target_word": "why",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fragen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ask",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Männer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "men",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Veränderung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "change",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ging",
+        "source_language": "German",
+        "translation": {
+            "target_word": "went",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Licht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "light",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Art",
+        "source_language": "German",
+        "translation": {
+            "target_word": "kind",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "müssen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "need",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Haus",
+        "source_language": "German",
+        "translation": {
+            "target_word": "house",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bild",
+        "source_language": "German",
+        "translation": {
+            "target_word": "picture",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "versuchen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "try",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "uns",
+        "source_language": "German",
+        "translation": {
+            "target_word": "us",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wieder",
+        "source_language": "German",
+        "translation": {
+            "target_word": "again",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tier",
+        "source_language": "German",
+        "translation": {
+            "target_word": "animal",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Punkt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "point",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mutter",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mother",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Welt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "world",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "in der Nähe von",
+        "source_language": "German",
+        "translation": {
+            "target_word": "near",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bauen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "build",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "selbst",
+        "source_language": "German",
+        "translation": {
+            "target_word": "self",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Erde",
+        "source_language": "German",
+        "translation": {
+            "target_word": "planet",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Vater",
+        "source_language": "German",
+        "translation": {
+            "target_word": "father",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "neu",
+        "source_language": "German",
+        "translation": {
+            "target_word": "new",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Arbeit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "job",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Teil",
+        "source_language": "German",
+        "translation": {
+            "target_word": "part",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nehmen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "take",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erhalten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "get",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ort",
+        "source_language": "German",
+        "translation": {
+            "target_word": "place",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gemacht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "made",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "leben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "live",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wo",
+        "source_language": "German",
+        "translation": {
+            "target_word": "where",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nach",
+        "source_language": "German",
+        "translation": {
+            "target_word": "post",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zurück",
+        "source_language": "German",
+        "translation": {
+            "target_word": "back",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wenig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "little",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nur",
+        "source_language": "German",
+        "translation": {
+            "target_word": "just",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Runde",
+        "source_language": "German",
+        "translation": {
+            "target_word": "round",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mann",
+        "source_language": "German",
+        "translation": {
+            "target_word": "man",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Jahr",
+        "source_language": "German",
+        "translation": {
+            "target_word": "year",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "kam",
+        "source_language": "German",
+        "translation": {
+            "target_word": "came",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zeigen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "indicate",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "mir",
+        "source_language": "German",
+        "translation": {
+            "target_word": "me",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "geben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "give",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "unsere",
+        "source_language": "German",
+        "translation": {
+            "target_word": "our",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "unter",
+        "source_language": "German",
+        "translation": {
+            "target_word": "among",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Name",
+        "source_language": "German",
+        "translation": {
+            "target_word": "name",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sehr",
+        "source_language": "German",
+        "translation": {
+            "target_word": "very",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Formular",
+        "source_language": "German",
+        "translation": {
+            "target_word": "form",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "denken",
+        "source_language": "German",
+        "translation": {
+            "target_word": "think",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hilfe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "help",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "niedrig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "low",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Linie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "line",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "abweichen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "differ",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wiederum",
+        "source_language": "German",
+        "translation": {
+            "target_word": "turn",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ursache",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cause",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "viel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "deal",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bedeuten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mean",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vor",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ago",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Umzug",
+        "source_language": "German",
+        "translation": {
+            "target_word": "move",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Recht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "right",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Junge",
+        "source_language": "German",
+        "translation": {
+            "target_word": "boy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "alt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "old",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gleich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "equal",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "alle",
+        "source_language": "German",
+        "translation": {
+            "target_word": "all",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "da",
+        "source_language": "German",
+        "translation": {
+            "target_word": "there",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nach oben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "up",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Verwendung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "use",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ihre",
+        "source_language": "German",
+        "translation": {
+            "target_word": "your",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Weg",
+        "source_language": "German",
+        "translation": {
+            "target_word": "path",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "über",
+        "source_language": "German",
+        "translation": {
+            "target_word": "over",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "viele",
+        "source_language": "German",
+        "translation": {
+            "target_word": "many",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dann",
+        "source_language": "German",
+        "translation": {
+            "target_word": "then",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schreiben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "write",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "würde",
+        "source_language": "German",
+        "translation": {
+            "target_word": "would",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "diese",
+        "source_language": "German",
+        "translation": {
+            "target_word": "these",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "lange",
+        "source_language": "German",
+        "translation": {
+            "target_word": "long",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "machen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "make",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sache",
+        "source_language": "German",
+        "translation": {
+            "target_word": "thing",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sehen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "see",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ihm",
+        "source_language": "German",
+        "translation": {
+            "target_word": "him",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zwei",
+        "source_language": "German",
+        "translation": {
+            "target_word": "two",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hat",
+        "source_language": "German",
+        "translation": {
+            "target_word": "has",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "suchen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "look",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "mehr",
+        "source_language": "German",
+        "translation": {
+            "target_word": "more",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tag",
+        "source_language": "German",
+        "translation": {
+            "target_word": "day",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "könnte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "could",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gehen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "walk",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "kommen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "come",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "tat",
+        "source_language": "German",
+        "translation": {
+            "target_word": "did",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Anzahl",
+        "source_language": "German",
+        "translation": {
+            "target_word": "number",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "klingen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sound",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nicht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "no",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "am meisten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "most",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Menschen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "people",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "meine",
+        "source_language": "German",
+        "translation": {
+            "target_word": "my",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wissen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "know",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wasser",
+        "source_language": "German",
+        "translation": {
+            "target_word": "water",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "als",
+        "source_language": "German",
+        "translation": {
+            "target_word": "than",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Anruf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "call",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erste",
+        "source_language": "German",
+        "translation": {
+            "target_word": "first",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nach unten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "down",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Seite",
+        "source_language": "German",
+        "translation": {
+            "target_word": "page",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gewesen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "been",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "jetzt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "now",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "finden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "find",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kopf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "head",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "stehen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "stand",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "besitzen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "own",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sollte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "should",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Land",
+        "source_language": "German",
+        "translation": {
+            "target_word": "country",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gefunden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "found",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Antwort",
+        "source_language": "German",
+        "translation": {
+            "target_word": "answer",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schule",
+        "source_language": "German",
+        "translation": {
+            "target_word": "school",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wachsen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "grow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Studie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "study",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "noch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "nor",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "lernen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "learn",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Anlage",
+        "source_language": "German",
+        "translation": {
+            "target_word": "plant",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Abdeckung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cover",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lebensmittel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "food",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sonne",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sun",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vier",
+        "source_language": "German",
+        "translation": {
+            "target_word": "four",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zwischen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "between",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zustand",
+        "source_language": "German",
+        "translation": {
+            "target_word": "condition",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "halten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hold",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Auge",
+        "source_language": "German",
+        "translation": {
+            "target_word": "eye",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "never",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "letzte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "last",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "lassen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "let",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gedanken",
+        "source_language": "German",
+        "translation": {
+            "target_word": "thought",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stadt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "town",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Baum",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tree",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "überqueren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cross",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bauernhof",
+        "source_language": "German",
+        "translation": {
+            "target_word": "farm",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schwer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "heavy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Beginn",
+        "source_language": "German",
+        "translation": {
+            "target_word": "start",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Macht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "power",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Geschichte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "history",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Säge",
+        "source_language": "German",
+        "translation": {
+            "target_word": "saw",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "weit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "far",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Meer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sea",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ziehen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pull",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "links",
+        "source_language": "German",
+        "translation": {
+            "target_word": "left",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "spät",
+        "source_language": "German",
+        "translation": {
+            "target_word": "late",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "laufen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "run",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "unterlassen Sie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "don’t",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "während",
+        "source_language": "German",
+        "translation": {
+            "target_word": "during",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Presse",
+        "source_language": "German",
+        "translation": {
+            "target_word": "press",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schließen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "close",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Nacht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "night",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "realen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "real",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Leben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "life",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wenige",
+        "source_language": "German",
+        "translation": {
+            "target_word": "few",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Norden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "north",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Buch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "book",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "tragen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wear",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nahm",
+        "source_language": "German",
+        "translation": {
+            "target_word": "took",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wissenschaft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "science",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "essen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "eat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zimmer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "room",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Freund",
+        "source_language": "German",
+        "translation": {
+            "target_word": "friend",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "begann",
+        "source_language": "German",
+        "translation": {
+            "target_word": "began",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Idee",
+        "source_language": "German",
+        "translation": {
+            "target_word": "idea",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fisch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fish",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "berg",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mountain",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stopp",
+        "source_language": "German",
+        "translation": {
+            "target_word": "stop",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "einmal",
+        "source_language": "German",
+        "translation": {
+            "target_word": "once",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Basis",
+        "source_language": "German",
+        "translation": {
+            "target_word": "basic",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hören",
+        "source_language": "German",
+        "translation": {
+            "target_word": "listen",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Pferd",
+        "source_language": "German",
+        "translation": {
+            "target_word": "horse",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schnitt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cut",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sicher",
+        "source_language": "German",
+        "translation": {
+            "target_word": "safe",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "beobachten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "observe",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Farbe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "color",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gesicht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "face",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Holz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wood",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Haupt-",
+        "source_language": "German",
+        "translation": {
+            "target_word": "main",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "geöffnet",
+        "source_language": "German",
+        "translation": {
+            "target_word": "open",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "scheinen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "seem",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zusammen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "together",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nächste",
+        "source_language": "German",
+        "translation": {
+            "target_word": "next",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "weiß",
+        "source_language": "German",
+        "translation": {
+            "target_word": "white",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kinder",
+        "source_language": "German",
+        "translation": {
+            "target_word": "children",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Start",
+        "source_language": "German",
+        "translation": {
+            "target_word": "begin",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bekam",
+        "source_language": "German",
+        "translation": {
+            "target_word": "got",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Beispiel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "example",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erleichtern",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ease",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Papier",
+        "source_language": "German",
+        "translation": {
+            "target_word": "paper",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gruppe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "group",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "immer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "always",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Musik",
+        "source_language": "German",
+        "translation": {
+            "target_word": "music",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "diejenigen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "those",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "beide",
+        "source_language": "German",
+        "translation": {
+            "target_word": "both",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Marke",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mark",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "oft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "often",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schreiben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "letter",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bis",
+        "source_language": "German",
+        "translation": {
+            "target_word": "until",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Meile",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mile",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fluss",
+        "source_language": "German",
+        "translation": {
+            "target_word": "river",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Auto",
+        "source_language": "German",
+        "translation": {
+            "target_word": "car",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Füße",
+        "source_language": "German",
+        "translation": {
+            "target_word": "feet",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Pflege",
+        "source_language": "German",
+        "translation": {
+            "target_word": "care",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zweite",
+        "source_language": "German",
+        "translation": {
+            "target_word": "second",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "genug",
+        "source_language": "German",
+        "translation": {
+            "target_word": "enough",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ebene",
+        "source_language": "German",
+        "translation": {
+            "target_word": "level",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mädchen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "girl",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "üblich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "usual",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "jung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "young",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bereit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ready",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "oben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "above",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "je",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ever",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "rot",
+        "source_language": "German",
+        "translation": {
+            "target_word": "red",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Liste",
+        "source_language": "German",
+        "translation": {
+            "target_word": "list",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "obwohl",
+        "source_language": "German",
+        "translation": {
+            "target_word": "though",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fühlen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "feel",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Vortrag",
+        "source_language": "German",
+        "translation": {
+            "target_word": "talk",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Vogel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bird",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bald",
+        "source_language": "German",
+        "translation": {
+            "target_word": "soon",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Körper",
+        "source_language": "German",
+        "translation": {
+            "target_word": "body",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hund",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dog",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Familie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "family",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "direkt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "direct",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Pose",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pose",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "verlassen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "leave",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lied",
+        "source_language": "German",
+        "translation": {
+            "target_word": "song",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "messen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "measure",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tür",
+        "source_language": "German",
+        "translation": {
+            "target_word": "door",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Produkt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "product",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schwarz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "black",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "kurz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "short",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zahl",
+        "source_language": "German",
+        "translation": {
+            "target_word": "numeral",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Klasse",
+        "source_language": "German",
+        "translation": {
+            "target_word": "class",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wind",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wind",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Frage",
+        "source_language": "German",
+        "translation": {
+            "target_word": "question",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "passieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pass",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vollständig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "complete",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schiff",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ship",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bereich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "area",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hälfte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "half",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stein",
+        "source_language": "German",
+        "translation": {
+            "target_word": "stone",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bestellen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "order",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Feuer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fire",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Süden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "south",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Problem",
+        "source_language": "German",
+        "translation": {
+            "target_word": "problem",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stück",
+        "source_language": "German",
+        "translation": {
+            "target_word": "piece",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wusste",
+        "source_language": "German",
+        "translation": {
+            "target_word": "knew",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "seit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "since",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "obere",
+        "source_language": "German",
+        "translation": {
+            "target_word": "top",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ganze",
+        "source_language": "German",
+        "translation": {
+            "target_word": "whole",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "König",
+        "source_language": "German",
+        "translation": {
+            "target_word": "king",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Straße",
+        "source_language": "German",
+        "translation": {
+            "target_word": "road",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zoll",
+        "source_language": "German",
+        "translation": {
+            "target_word": "inch",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "multiplizieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "multiply",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "nichts",
+        "source_language": "German",
+        "translation": {
+            "target_word": "nothing",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kurs",
+        "source_language": "German",
+        "translation": {
+            "target_word": "course",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bleiben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "stay",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rad",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wheel",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "voll",
+        "source_language": "German",
+        "translation": {
+            "target_word": "full",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kraft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "force",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "blau",
+        "source_language": "German",
+        "translation": {
+            "target_word": "blue",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Objekt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "object",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "entscheiden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "decide",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Oberfläche",
+        "source_language": "German",
+        "translation": {
+            "target_word": "surface",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "tief",
+        "source_language": "German",
+        "translation": {
+            "target_word": "deep",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mond",
+        "source_language": "German",
+        "translation": {
+            "target_word": "moon",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Insel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "island",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fuß",
+        "source_language": "German",
+        "translation": {
+            "target_word": "foot",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "System",
+        "source_language": "German",
+        "translation": {
+            "target_word": "system",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "beschäftigt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "busy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Prüfung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "test",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rekord",
+        "source_language": "German",
+        "translation": {
+            "target_word": "record",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Boot",
+        "source_language": "German",
+        "translation": {
+            "target_word": "boat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gemeinsam",
+        "source_language": "German",
+        "translation": {
+            "target_word": "common",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "goldenen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "gold",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "möglich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "possible",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Flugzeug",
+        "source_language": "German",
+        "translation": {
+            "target_word": "plane",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "statt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "stead",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "trocken",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dry",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wunder",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wonder",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lachen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "laugh",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "tausend",
+        "source_language": "German",
+        "translation": {
+            "target_word": "thousand",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "lief",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ran",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "überprüfen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "check",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Spiel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "match",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Form",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shape",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gleichsetzen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "equate",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fehl",
+        "source_language": "German",
+        "translation": {
+            "target_word": "miss",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gebracht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "brought",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wärme",
+        "source_language": "German",
+        "translation": {
+            "target_word": "heat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schnee",
+        "source_language": "German",
+        "translation": {
+            "target_word": "snow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Reifen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tire",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bringen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bring",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ja",
+        "source_language": "German",
+        "translation": {
+            "target_word": "yes",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "entfernt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "distant",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "füllen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fill",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Osten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "east",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "malen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "paint",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sprache",
+        "source_language": "German",
+        "translation": {
+            "target_word": "language",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Einheit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "unit",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fein",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fine",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fliegen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fly",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fallen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "drop",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "führen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "guide",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schrei",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shout",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dunkel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dark",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Maschine",
+        "source_language": "German",
+        "translation": {
+            "target_word": "machine",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "note",
+        "source_language": "German",
+        "translation": {
+            "target_word": "note",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "warten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wait",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Plan",
+        "source_language": "German",
+        "translation": {
+            "target_word": "plan",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Abbildung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "figure",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stern",
+        "source_language": "German",
+        "translation": {
+            "target_word": "star",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kasten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "box",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Nomen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "noun",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Feld",
+        "source_language": "German",
+        "translation": {
+            "target_word": "field",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rest",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rest",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "richtig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "proper",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fähig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "able",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Pfund",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pound",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "getan",
+        "source_language": "German",
+        "translation": {
+            "target_word": "done",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schönheit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "beauty",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Antriebs",
+        "source_language": "German",
+        "translation": {
+            "target_word": "drive",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "stand",
+        "source_language": "German",
+        "translation": {
+            "target_word": "stood",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "enthalten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "contain",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Front",
+        "source_language": "German",
+        "translation": {
+            "target_word": "front",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "lehren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "teach",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Woche",
+        "source_language": "German",
+        "translation": {
+            "target_word": "week",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Finale",
+        "source_language": "German",
+        "translation": {
+            "target_word": "final",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gab",
+        "source_language": "German",
+        "translation": {
+            "target_word": "gave",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "grün",
+        "source_language": "German",
+        "translation": {
+            "target_word": "green",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "oh",
+        "source_language": "German",
+        "translation": {
+            "target_word": "oh",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schnell",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fast",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "entwickeln",
+        "source_language": "German",
+        "translation": {
+            "target_word": "develop",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ozean",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ocean",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "warme",
+        "source_language": "German",
+        "translation": {
+            "target_word": "warm",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "kostenlos",
+        "source_language": "German",
+        "translation": {
+            "target_word": "free",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Minute",
+        "source_language": "German",
+        "translation": {
+            "target_word": "minute",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "stark",
+        "source_language": "German",
+        "translation": {
+            "target_word": "strong",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "besondere",
+        "source_language": "German",
+        "translation": {
+            "target_word": "particular",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Geist",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mind",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hinter",
+        "source_language": "German",
+        "translation": {
+            "target_word": "behind",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "klar",
+        "source_language": "German",
+        "translation": {
+            "target_word": "clear",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schwanz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tail",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "produzieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "produce",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tatsache",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fact",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Raum",
+        "source_language": "German",
+        "translation": {
+            "target_word": "space",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gehört",
+        "source_language": "German",
+        "translation": {
+            "target_word": "heard",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "beste",
+        "source_language": "German",
+        "translation": {
+            "target_word": "best",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stunde",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hour",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "besser",
+        "source_language": "German",
+        "translation": {
+            "target_word": "better",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wahr",
+        "source_language": "German",
+        "translation": {
+            "target_word": "true",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hundert",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hundred",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fünf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "five",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "merken",
+        "source_language": "German",
+        "translation": {
+            "target_word": "remember",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schritt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "step",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "früh",
+        "source_language": "German",
+        "translation": {
+            "target_word": "early",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Westen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "west",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Boden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "soil",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Interesse",
+        "source_language": "German",
+        "translation": {
+            "target_word": "interest",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erreichen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "reach",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Verbum",
+        "source_language": "German",
+        "translation": {
+            "target_word": "verb",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "singen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sing",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sechs",
+        "source_language": "German",
+        "translation": {
+            "target_word": "six",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tabelle",
+        "source_language": "German",
+        "translation": {
+            "target_word": "chart",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Reise",
+        "source_language": "German",
+        "translation": {
+            "target_word": "trip",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "weniger",
+        "source_language": "German",
+        "translation": {
+            "target_word": "less",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Morgen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "morning",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zehn",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ten",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "einfach",
+        "source_language": "German",
+        "translation": {
+            "target_word": "simple",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "mehrere",
+        "source_language": "German",
+        "translation": {
+            "target_word": "several",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Vokal",
+        "source_language": "German",
+        "translation": {
+            "target_word": "vowel",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Krieg",
+        "source_language": "German",
+        "translation": {
+            "target_word": "war",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "legen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "lay",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gegen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "against",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Muster",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pattern",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schleppend",
+        "source_language": "German",
+        "translation": {
+            "target_word": "slow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zentrum",
+        "source_language": "German",
+        "translation": {
+            "target_word": "center",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Liebe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "love",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Person",
+        "source_language": "German",
+        "translation": {
+            "target_word": "person",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Geld",
+        "source_language": "German",
+        "translation": {
+            "target_word": "money",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dienen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "serve",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erscheinen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "appear",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Karte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "card",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "regen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rain",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Regel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rule",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "regieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "govern",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kälte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cold",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hinweis",
+        "source_language": "German",
+        "translation": {
+            "target_word": "notice",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stimme",
+        "source_language": "German",
+        "translation": {
+            "target_word": "voice",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Energie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "energy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Jagd",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hunt",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wahrscheinlich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "probable",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bett",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bed",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bruder",
+        "source_language": "German",
+        "translation": {
+            "target_word": "brother",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ei",
+        "source_language": "German",
+        "translation": {
+            "target_word": "egg",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fahrt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ride",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zelle",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cell",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "glauben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "believe",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vielleicht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "perhaps",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "pflücken",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pick",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "plötzlich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sudden",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zählen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "count",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Platz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "square",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Grund",
+        "source_language": "German",
+        "translation": {
+            "target_word": "reason",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Dauer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "length",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vertreten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "represent",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kunst",
+        "source_language": "German",
+        "translation": {
+            "target_word": "art",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Thema",
+        "source_language": "German",
+        "translation": {
+            "target_word": "subject",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Region",
+        "source_language": "German",
+        "translation": {
+            "target_word": "region",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Größe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "size",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "variieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "vary",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "regeln",
+        "source_language": "German",
+        "translation": {
+            "target_word": "settle",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sprechen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "speak",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gewicht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "weight",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "allgemein",
+        "source_language": "German",
+        "translation": {
+            "target_word": "general",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Eis",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ice",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Materie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "matter",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kreis",
+        "source_language": "German",
+        "translation": {
+            "target_word": "circle",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Paar",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pair",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "umfassen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "include",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kluft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "divide",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Silbe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "syllable",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Filz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "felt",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kugel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ball",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Welle",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wave",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Herz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "heart",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Uhr",
+        "source_language": "German",
+        "translation": {
+            "target_word": "clock",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vorhanden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "present",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tanz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dance",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Motor",
+        "source_language": "German",
+        "translation": {
+            "target_word": "engine",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Position",
+        "source_language": "German",
+        "translation": {
+            "target_word": "position",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Arm",
+        "source_language": "German",
+        "translation": {
+            "target_word": "arm",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "breit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "broad",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Segel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sail",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Material",
+        "source_language": "German",
+        "translation": {
+            "target_word": "material",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fraktion",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fraction",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wald",
+        "source_language": "German",
+        "translation": {
+            "target_word": "forest",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sitzen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sit",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rennen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "race",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fenster",
+        "source_language": "German",
+        "translation": {
+            "target_word": "window",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Speicher",
+        "source_language": "German",
+        "translation": {
+            "target_word": "store",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sommer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "summer",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zug",
+        "source_language": "German",
+        "translation": {
+            "target_word": "train",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schlaf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sleep",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "beweisen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "prove",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "einsam",
+        "source_language": "German",
+        "translation": {
+            "target_word": "lone",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bein",
+        "source_language": "German",
+        "translation": {
+            "target_word": "leg",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Übung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "exercise",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wand",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wall",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fang",
+        "source_language": "German",
+        "translation": {
+            "target_word": "catch",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Berg",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mount",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wünschen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wish",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Himmel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sky",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Board",
+        "source_language": "German",
+        "translation": {
+            "target_word": "board",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Freude",
+        "source_language": "German",
+        "translation": {
+            "target_word": "joy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Winter",
+        "source_language": "German",
+        "translation": {
+            "target_word": "winter",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sa",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "geschrieben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "written",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wilden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wild",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Instrument",
+        "source_language": "German",
+        "translation": {
+            "target_word": "instrument",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gehalten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "kept",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Glas",
+        "source_language": "German",
+        "translation": {
+            "target_word": "glass",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gras",
+        "source_language": "German",
+        "translation": {
+            "target_word": "grass",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kuh",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rand",
+        "source_language": "German",
+        "translation": {
+            "target_word": "edge",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zeichen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "symbol",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Besuch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "visit",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Vergangenheit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "past",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "weich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "soft",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Spaß",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fun",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hell",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bright",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gases",
+        "source_language": "German",
+        "translation": {
+            "target_word": "gas",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wetter",
+        "source_language": "German",
+        "translation": {
+            "target_word": "weather",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Monat",
+        "source_language": "German",
+        "translation": {
+            "target_word": "month",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Million",
+        "source_language": "German",
+        "translation": {
+            "target_word": "million",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Finish",
+        "source_language": "German",
+        "translation": {
+            "target_word": "finish",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "glücklich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "happy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "hoffen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hope",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "blume",
+        "source_language": "German",
+        "translation": {
+            "target_word": "flower",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "kleiden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "clothe",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "seltsam",
+        "source_language": "German",
+        "translation": {
+            "target_word": "strange",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Vorbei",
+        "source_language": "German",
+        "translation": {
+            "target_word": "gone",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Handel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "trade",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Melodie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "melody",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Büro",
+        "source_language": "German",
+        "translation": {
+            "target_word": "office",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "empfangen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "receive",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Reihe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "row",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mund",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mouth",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "genau",
+        "source_language": "German",
+        "translation": {
+            "target_word": "exact",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sterben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "die",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "am wenigsten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "least",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ärger",
+        "source_language": "German",
+        "translation": {
+            "target_word": "trouble",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "außer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "except",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schrieb",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wrote",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Samen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "seed",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ton",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tone",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "beitreten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "join",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vorschlagen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "suggest",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sauber",
+        "source_language": "German",
+        "translation": {
+            "target_word": "clean",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Pause",
+        "source_language": "German",
+        "translation": {
+            "target_word": "break",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Dame",
+        "source_language": "German",
+        "translation": {
+            "target_word": "lady",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hof",
+        "source_language": "German",
+        "translation": {
+            "target_word": "yard",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "steigen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rise",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schlecht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bad",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schlag",
+        "source_language": "German",
+        "translation": {
+            "target_word": "blow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Öl",
+        "source_language": "German",
+        "translation": {
+            "target_word": "oil",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Blut",
+        "source_language": "German",
+        "translation": {
+            "target_word": "blood",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "berühren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "touch",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wuchs",
+        "source_language": "German",
+        "translation": {
+            "target_word": "grew",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Cent",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cent",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "mischen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mix",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mannschaft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "team",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Draht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wire",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kosten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cost",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "verloren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "lost",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "braun",
+        "source_language": "German",
+        "translation": {
+            "target_word": "brown",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Garten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "garden",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gesendet",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sent",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wählen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "select",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fiel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fell",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "passen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fit",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fließen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "flow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Messe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fair",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bank",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bank",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sammeln",
+        "source_language": "German",
+        "translation": {
+            "target_word": "gather",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sparen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "save",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kontrolle",
+        "source_language": "German",
+        "translation": {
+            "target_word": "control",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dezimal",
+        "source_language": "German",
+        "translation": {
+            "target_word": "decimal",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ohr",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ear",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sonst",
+        "source_language": "German",
+        "translation": {
+            "target_word": "else",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ganz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "quite",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "pleite",
+        "source_language": "German",
+        "translation": {
+            "target_word": "broke",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fall",
+        "source_language": "German",
+        "translation": {
+            "target_word": "case",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mitte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "middle",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "töten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "kill",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sohn",
+        "source_language": "German",
+        "translation": {
+            "target_word": "son",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "See",
+        "source_language": "German",
+        "translation": {
+            "target_word": "lake",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Moment",
+        "source_language": "German",
+        "translation": {
+            "target_word": "moment",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Maßstab",
+        "source_language": "German",
+        "translation": {
+            "target_word": "scale",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "laut",
+        "source_language": "German",
+        "translation": {
+            "target_word": "loud",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Frühling",
+        "source_language": "German",
+        "translation": {
+            "target_word": "spring",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kind",
+        "source_language": "German",
+        "translation": {
+            "target_word": "baby",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gerade",
+        "source_language": "German",
+        "translation": {
+            "target_word": "straight",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Konsonant",
+        "source_language": "German",
+        "translation": {
+            "target_word": "consonant",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Nation",
+        "source_language": "German",
+        "translation": {
+            "target_word": "nation",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wörterbuch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dictionary",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "milch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "milk",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Geschwindigkeit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "speed",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Verfahren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "method",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Orgel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "organ",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zahlen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pay",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Alter",
+        "source_language": "German",
+        "translation": {
+            "target_word": "age",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Abschnitt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "section",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kleid",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dress",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wolke",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cloud",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Überraschung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "surprise",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ruhig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "quiet",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "winzig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tiny",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Aufstieg",
+        "source_language": "German",
+        "translation": {
+            "target_word": "climb",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "kühlen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cool",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Entwurf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "design",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "arm",
+        "source_language": "German",
+        "translation": {
+            "target_word": "poor",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Menge",
+        "source_language": "German",
+        "translation": {
+            "target_word": "crowd",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Versuch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "experiment",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schlüssel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "key",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Eisen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "iron",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Einzel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "single",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stick",
+        "source_language": "German",
+        "translation": {
+            "target_word": "stick",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wohnung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "flat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zwanzig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "twenty",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Haut",
+        "source_language": "German",
+        "translation": {
+            "target_word": "skin",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lächeln",
+        "source_language": "German",
+        "translation": {
+            "target_word": "smile",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Falte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "crease",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Loch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hole",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "springen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "jump",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "acht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "eight",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Dorf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "village",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "treffen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hit",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wurzel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "root",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "kaufen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "buy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erhöhen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "raise",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "lösen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "solve",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Metall",
+        "source_language": "German",
+        "translation": {
+            "target_word": "metal",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ob",
+        "source_language": "German",
+        "translation": {
+            "target_word": "whether",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "drücken",
+        "source_language": "German",
+        "translation": {
+            "target_word": "push",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sieben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "seven",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Absatz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "paragraph",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dritte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "third",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wird",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shall",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hand",
+        "source_language": "German",
+        "translation": {
+            "target_word": "held",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Haar",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hair",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "beschreiben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "describe",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Koch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cook",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "entweder",
+        "source_language": "German",
+        "translation": {
+            "target_word": "either",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ergebnis",
+        "source_language": "German",
+        "translation": {
+            "target_word": "result",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "brennen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "burn",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hügel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hill",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Katze",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Jahrhundert",
+        "source_language": "German",
+        "translation": {
+            "target_word": "century",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "betrachten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "consider",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Typ",
+        "source_language": "German",
+        "translation": {
+            "target_word": "type",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gesetz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "law",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bit",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Küste",
+        "source_language": "German",
+        "translation": {
+            "target_word": "coast",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kopie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "copy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ausdruck",
+        "source_language": "German",
+        "translation": {
+            "target_word": "phrase",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "still",
+        "source_language": "German",
+        "translation": {
+            "target_word": "silent",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sand",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sand",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rolle",
+        "source_language": "German",
+        "translation": {
+            "target_word": "roll",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Temperatur",
+        "source_language": "German",
+        "translation": {
+            "target_word": "temperature",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Finger",
+        "source_language": "German",
+        "translation": {
+            "target_word": "finger",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Industrie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "industry",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wert",
+        "source_language": "German",
+        "translation": {
+            "target_word": "value",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kampf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fight",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lüge",
+        "source_language": "German",
+        "translation": {
+            "target_word": "lie",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schlagen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "beat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "begeistern",
+        "source_language": "German",
+        "translation": {
+            "target_word": "excite",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "natürlich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "natural",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Blick",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sight",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sinn",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sense",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hauptstadt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "capital",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "wird nicht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "won’t",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stuhl",
+        "source_language": "German",
+        "translation": {
+            "target_word": "chair",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Achtung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "danger",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Obst",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fruit",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "reich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rich",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dick",
+        "source_language": "German",
+        "translation": {
+            "target_word": "thick",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Soldat",
+        "source_language": "German",
+        "translation": {
+            "target_word": "soldier",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Prozess",
+        "source_language": "German",
+        "translation": {
+            "target_word": "process",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "betreiben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "operate",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Praxis",
+        "source_language": "German",
+        "translation": {
+            "target_word": "practice",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "trennen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "separate",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schwierig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "difficult",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Arzt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "doctor",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bitte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "please",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schützen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "protect",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mittag",
+        "source_language": "German",
+        "translation": {
+            "target_word": "noon",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ernte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "crop",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "modernen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "modern",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Elementes",
+        "source_language": "German",
+        "translation": {
+            "target_word": "element",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schüler",
+        "source_language": "German",
+        "translation": {
+            "target_word": "student",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ecke",
+        "source_language": "German",
+        "translation": {
+            "target_word": "corner",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Partei",
+        "source_language": "German",
+        "translation": {
+            "target_word": "party",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Versorgung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "supply",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "deren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "whose",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "lokalisieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "locate",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rings",
+        "source_language": "German",
+        "translation": {
+            "target_word": "ring",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Charakter",
+        "source_language": "German",
+        "translation": {
+            "target_word": "character",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "insekt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "insect",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gefangen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "caught",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Funk",
+        "source_language": "German",
+        "translation": {
+            "target_word": "radio",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Speiche",
+        "source_language": "German",
+        "translation": {
+            "target_word": "spoke",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Atom",
+        "source_language": "German",
+        "translation": {
+            "target_word": "atom",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mensch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "human",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wirkung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "effect",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "elektrisch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "electric",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erwarten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "expect",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Knochen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bone",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schiene",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rail",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vorstellen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "imagine",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bieten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "provide",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "zustimmen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "agree",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "sanft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "gentle",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Frau",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wife",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kapitän",
+        "source_language": "German",
+        "translation": {
+            "target_word": "captain",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erraten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "guess",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erforderlich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "necessary",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "scharf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sharp",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Flügel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wing",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schaffen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "create",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Nachbar",
+        "source_language": "German",
+        "translation": {
+            "target_word": "neighbor",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wasch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wash",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fledermaus",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "eher",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rather",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "mais",
+        "source_language": "German",
+        "translation": {
+            "target_word": "corn",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vergleichen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "compare",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gedicht",
+        "source_language": "German",
+        "translation": {
+            "target_word": "poem",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schnur",
+        "source_language": "German",
+        "translation": {
+            "target_word": "string",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Glocke",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bell",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "abhängen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "depend",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fleisch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "meat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "einreiben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rub",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rohr",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tube",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "berühmt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "famous",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Dollar",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dollar",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Strom",
+        "source_language": "German",
+        "translation": {
+            "target_word": "current",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Angst",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fear",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "dünn",
+        "source_language": "German",
+        "translation": {
+            "target_word": "thin",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Dreieck",
+        "source_language": "German",
+        "translation": {
+            "target_word": "triangle",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Eile",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hurry",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Chef",
+        "source_language": "German",
+        "translation": {
+            "target_word": "chief",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kolonie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "colony",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mine",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mine",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Krawatte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tie",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "eingeben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "enter",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Dur",
+        "source_language": "German",
+        "translation": {
+            "target_word": "major",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "frisch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fresh",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Suche",
+        "source_language": "German",
+        "translation": {
+            "target_word": "search",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "senden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "send",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gelb",
+        "source_language": "German",
+        "translation": {
+            "target_word": "yellow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Pistole",
+        "source_language": "German",
+        "translation": {
+            "target_word": "gun",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erlauben",
+        "source_language": "German",
+        "translation": {
+            "target_word": "allow",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Druck",
+        "source_language": "German",
+        "translation": {
+            "target_word": "print",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "tot",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dead",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stelle",
+        "source_language": "German",
+        "translation": {
+            "target_word": "spot",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wüste",
+        "source_language": "German",
+        "translation": {
+            "target_word": "desert",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Anzug",
+        "source_language": "German",
+        "translation": {
+            "target_word": "suit",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Aufzug",
+        "source_language": "German",
+        "translation": {
+            "target_word": "lift",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "stiegen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rose",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ankommen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "arrive",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stamm",
+        "source_language": "German",
+        "translation": {
+            "target_word": "master",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Spur",
+        "source_language": "German",
+        "translation": {
+            "target_word": "track",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Elternteil",
+        "source_language": "German",
+        "translation": {
+            "target_word": "parent",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Ufer",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shore",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Teilung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "division",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Blatt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sheet",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Substanz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "substance",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "begünstigen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "favor",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "verbinden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "connect",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "verbringen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "spend",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Akkord",
+        "source_language": "German",
+        "translation": {
+            "target_word": "chord",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Fett",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "froh",
+        "source_language": "German",
+        "translation": {
+            "target_word": "glad",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Original",
+        "source_language": "German",
+        "translation": {
+            "target_word": "original",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Aktie",
+        "source_language": "German",
+        "translation": {
+            "target_word": "share",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Station",
+        "source_language": "German",
+        "translation": {
+            "target_word": "station",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Papa",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dad",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Brot",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bread",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "aufladen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "charge",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Leiste",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bar",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Angebot",
+        "source_language": "German",
+        "translation": {
+            "target_word": "range",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Segment",
+        "source_language": "German",
+        "translation": {
+            "target_word": "segment",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sklave",
+        "source_language": "German",
+        "translation": {
+            "target_word": "slave",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ente",
+        "source_language": "German",
+        "translation": {
+            "target_word": "duck",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Augenblick",
+        "source_language": "German",
+        "translation": {
+            "target_word": "instant",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Markt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "market",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Grad",
+        "source_language": "German",
+        "translation": {
+            "target_word": "degree",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "besiedeln",
+        "source_language": "German",
+        "translation": {
+            "target_word": "populate",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "küken",
+        "source_language": "German",
+        "translation": {
+            "target_word": "chick",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "liebe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dear",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Feind",
+        "source_language": "German",
+        "translation": {
+            "target_word": "enemy",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "antworten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "reply",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Getränk",
+        "source_language": "German",
+        "translation": {
+            "target_word": "drink",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "auftreten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "occur",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Unterstützung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "support",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rede",
+        "source_language": "German",
+        "translation": {
+            "target_word": "speech",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Natur",
+        "source_language": "German",
+        "translation": {
+            "target_word": "nature",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Dampf",
+        "source_language": "German",
+        "translation": {
+            "target_word": "steam",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Bewegung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "motion",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Flüssigkeit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "liquid",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "protokollieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "log",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gemeint",
+        "source_language": "German",
+        "translation": {
+            "target_word": "meant",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Quotient",
+        "source_language": "German",
+        "translation": {
+            "target_word": "quotient",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gebiss",
+        "source_language": "German",
+        "translation": {
+            "target_word": "teeth",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schale",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shell",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hals",
+        "source_language": "German",
+        "translation": {
+            "target_word": "neck",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sauerstoff",
+        "source_language": "German",
+        "translation": {
+            "target_word": "oxygen",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zucker",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sugar",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tod",
+        "source_language": "German",
+        "translation": {
+            "target_word": "death",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ziemlich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pretty",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Geschicklichkeit",
+        "source_language": "German",
+        "translation": {
+            "target_word": "skill",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Frauen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "women",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Saison",
+        "source_language": "German",
+        "translation": {
+            "target_word": "season",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lösung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "solution",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Magnet",
+        "source_language": "German",
+        "translation": {
+            "target_word": "magnet",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Silber",
+        "source_language": "German",
+        "translation": {
+            "target_word": "silver",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "danken",
+        "source_language": "German",
+        "translation": {
+            "target_word": "thank",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zweig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "branch",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Suffix",
+        "source_language": "German",
+        "translation": {
+            "target_word": "suffix",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "insbesondere",
+        "source_language": "German",
+        "translation": {
+            "target_word": "especially",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Feige",
+        "source_language": "German",
+        "translation": {
+            "target_word": "fig",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ängstlich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "afraid",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "riesig",
+        "source_language": "German",
+        "translation": {
+            "target_word": "huge",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schwester",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sister",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stahl",
+        "source_language": "German",
+        "translation": {
+            "target_word": "steel",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "diskutieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "discuss",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vorwärts",
+        "source_language": "German",
+        "translation": {
+            "target_word": "forward",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "ähnlich",
+        "source_language": "German",
+        "translation": {
+            "target_word": "similar",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Erfahrung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "experience",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Partitur",
+        "source_language": "German",
+        "translation": {
+            "target_word": "score",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "apfel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "apple",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gekauft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "bought",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "geführt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "led",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tonhöhe",
+        "source_language": "German",
+        "translation": {
+            "target_word": "pitch",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Mantel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "coat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Masse",
+        "source_language": "German",
+        "translation": {
+            "target_word": "mass",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Band",
+        "source_language": "German",
+        "translation": {
+            "target_word": "band",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Seil",
+        "source_language": "German",
+        "translation": {
+            "target_word": "rope",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Rutsch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "slip",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gewinnen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "win",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "träumen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "dream",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Abend",
+        "source_language": "German",
+        "translation": {
+            "target_word": "evening",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Futtermittel",
+        "source_language": "German",
+        "translation": {
+            "target_word": "feed",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Werkzeug",
+        "source_language": "German",
+        "translation": {
+            "target_word": "tool",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "gesamt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "total",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Geruch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "smell",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Tal",
+        "source_language": "German",
+        "translation": {
+            "target_word": "valley",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "doppelt",
+        "source_language": "German",
+        "translation": {
+            "target_word": "double",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Sitz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "seat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "fortsetzen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "continue",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Block",
+        "source_language": "German",
+        "translation": {
+            "target_word": "block",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Hut",
+        "source_language": "German",
+        "translation": {
+            "target_word": "hat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "verkaufen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "sell",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Erfolg",
+        "source_language": "German",
+        "translation": {
+            "target_word": "success",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Firma",
+        "source_language": "German",
+        "translation": {
+            "target_word": "company",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "subtrahieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "subtract",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Veranstaltung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "event",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "schwimmen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "swim",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Begriff",
+        "source_language": "German",
+        "translation": {
+            "target_word": "term",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Gegenteil",
+        "source_language": "German",
+        "translation": {
+            "target_word": "opposite",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schuh",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shoe",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Schulter",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shoulder",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Verbreitung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "spread",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "arrangieren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "arrange",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lager",
+        "source_language": "German",
+        "translation": {
+            "target_word": "camp",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erfinden",
+        "source_language": "German",
+        "translation": {
+            "target_word": "invent",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Baumwolle",
+        "source_language": "German",
+        "translation": {
+            "target_word": "cotton",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "geboren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "born",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "bestimmen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "determine",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Quart",
+        "source_language": "German",
+        "translation": {
+            "target_word": "quart",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "neun",
+        "source_language": "German",
+        "translation": {
+            "target_word": "nine",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lastwagen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "truck",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Lärm",
+        "source_language": "German",
+        "translation": {
+            "target_word": "noise",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Chance",
+        "source_language": "German",
+        "translation": {
+            "target_word": "chance",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Geschäft",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shop",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Stretch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "stretch",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "werfen",
+        "source_language": "German",
+        "translation": {
+            "target_word": "throw",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Glanz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "shine",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Immobilien",
+        "source_language": "German",
+        "translation": {
+            "target_word": "property",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Spalte",
+        "source_language": "German",
+        "translation": {
+            "target_word": "column",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Molekül",
+        "source_language": "German",
+        "translation": {
+            "target_word": "molecule",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "falsch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "wrong",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "grau",
+        "source_language": "German",
+        "translation": {
+            "target_word": "gray",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Wiederholung",
+        "source_language": "German",
+        "translation": {
+            "target_word": "repeat",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "erfordern",
+        "source_language": "German",
+        "translation": {
+            "target_word": "require",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "vorbereiten",
+        "source_language": "German",
+        "translation": {
+            "target_word": "prepare",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Salz",
+        "source_language": "German",
+        "translation": {
+            "target_word": "salt",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Nase",
+        "source_language": "German",
+        "translation": {
+            "target_word": "nose",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "mehreren",
+        "source_language": "German",
+        "translation": {
+            "target_word": "plural",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Zorn",
+        "source_language": "German",
+        "translation": {
+            "target_word": "anger",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Anspruch",
+        "source_language": "German",
+        "translation": {
+            "target_word": "claim",
+            "target_language": "English"
+        }
+    },
+    {
+        "source_word": "Kontinent",
+        "source_language": "German",
+        "translation": {
+            "target_word": "continent",
+            "target_language": "English"
+        }
+    }
+]
